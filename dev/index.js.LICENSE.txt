@@ -50,11 +50,7 @@ object-assign
  *  Released under the MIT license
  */
 
-/*! https://mths.be/punycode v1.4.1 by @mathias */
-
 /*! ieee754. BSD-3-Clause License. Feross Aboukhadijeh <https://feross.org/opensource> */
-
-/*! safe-buffer. MIT License. Feross Aboukhadijeh <https://feross.org/opensource> */
 
 /*! showdown v 2.1.0 - 21-04-2022 */
 
