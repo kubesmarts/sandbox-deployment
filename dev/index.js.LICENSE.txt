@@ -52,8 +52,6 @@ object-assign
 
 /*! ieee754. BSD-3-Clause License. Feross Aboukhadijeh <https://feross.org/opensource> */
 
-/*! showdown v 2.1.0 - 21-04-2022 */
-
 /*!-----------------------------------------------------------------------------
  * Copyright (c) Microsoft Corporation. All rights reserved.
  * Version: 0.39.0(ff3621a3fa6389873be5412d17554294ea1b0941)
