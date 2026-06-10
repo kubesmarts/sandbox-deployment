@@ -1,2 +1,0 @@
-/*! For license information please see defaults-de_DE.js.LICENSE.txt */
-!function(e,t){"function"==typeof define&&define.amd?define(["jquery"],function(e){return t(e)}):"object"==typeof exports?module.exports=t(require("jquery")):t(jQuery)}(0,function(e){e.fn.selectpicker.defaults={noneSelectedText:"Bitte wählen...",noneResultsText:"Keine Ergebnisse für {0}",countSelectedText:"{0} von {1} ausgewählt",maxOptionsText:["Limit erreicht ({n} {var} max.)","Gruppen-Limit erreicht ({n} {var} max.)",["Eintrag","Einträge"]],multipleSeparator:", "}});
