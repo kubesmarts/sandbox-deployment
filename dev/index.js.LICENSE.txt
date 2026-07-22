@@ -47,7 +47,7 @@ PERFORMANCE OF THIS SOFTWARE.
 
 /*! @license DOMPurify 3.2.2 | (c) Cure53 and other contributors | Released under the Apache license 2.0 and Mozilla Public License 2.0 | github.com/cure53/DOMPurify/blob/3.2.2/LICENSE */
 
-/*! Axios v1.17.0 Copyright (c) 2026 Matt Zabriskie and contributors */
+/*! Axios v1.18.1 Copyright (c) 2026 Matt Zabriskie and contributors */
 
 /*! Moment Duration Format v2.2.2
  *  https://github.com/jsmreese/moment-duration-format
